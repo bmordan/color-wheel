@@ -1,0 +1,22 @@
+{
+  "name": "color-wheel",
+  "version": "1.0.0",
+  "description": "request the hex code for a rotation of colors",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "color",
+    "stop",
+    "rainbows",
+    "rgb",
+    "hex"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bmordan/color-wheel.git"
+  },
+  "author": "bmordan",
+  "license": "MIT"
+}
