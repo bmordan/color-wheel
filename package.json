@@ -1,6 +1,6 @@
 {
   "name": "color-wheel",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "request the hex code for a rotation of colors",
   "main": "index.js",
   "scripts": {
