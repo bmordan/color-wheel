@@ -1,10 +1,10 @@
 {
-  "name": "color-wheel",
+  "name": "next-color",
   "version": "1.1.0",
-  "description": "request the hex code for a rotation of colors",
+  "description": "request the next hex code for an infinite rotation of colors",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --watchAll"
   },
   "keywords": [
     "color",
@@ -18,5 +18,8 @@
     "url": "https://github.com/bmordan/color-wheel.git"
   },
   "author": "bmordan",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
 }
